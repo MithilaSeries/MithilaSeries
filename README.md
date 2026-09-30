@@ -179,31 +179,31 @@ The long-term vision is to connect **Mithila's artists, creators, traditions, st
 ---
 ## 📊 GitHub Analytics
 
-> Replace `anilmahatodmc` with the actual GitHub username before publishing.
+> Replace `mithilaseries` with the actual GitHub username before publishing.
 
 <div align="center">
 
-<a href="https://github.com/anilmahatodmc">
+<a href="https://github.com/mithilaseries">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anilmahatodmc&theme=tokyonight"
-    alt="GitHub profile summary for Anil Mahato"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mithilaseries&theme=tokyonight"
+    alt="GitHub profile summary for Mithila Series"
     width="90%"
   />
 </a>
 
 <br><br>
 
-<a href="https://github.com/anilmahatodmc">
+<a href="https://github.com/mithilaseries">
   <img
     src="https://github-readme-stats.vercel.app/api?username=anilmahatodmc&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
-    alt="GitHub statistics for Anil Mahato"
+    alt="GitHub statistics for Mithila Series"
     width="48%"
   />
 </a>
-<a href="https://github.com/anilmahatodmc">
+<a href="https://github.com/mithilaseries">
   <img
     src="https://streak-stats.demolab.com?user=anilmahatodmc&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak for Anil Mahato"
+    alt="GitHub contribution streak for Mithila Series"
     width="48%"
   />
 </a>
