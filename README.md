@@ -8,9 +8,13 @@ md = r'''<div align="center">
 
 **Connecting generations, bringing Mithila to the world.**
 
-<span style="background:#F57C00; color:#FFFFFF; padding:8px 16px; border-radius:6px; font-weight:600;">
-  Mithila Series — Music &amp; Media
-</span>
+<table>
+  <tr>
+    <td bgcolor="#F57C00">
+      <strong><font color="white">Mithila Series — Music &amp; Media</font></strong>
+    </td>
+  </tr>
+</table>
 <a href="https://www.instagram.com/sanjaykushwahamusic">
   <img src="https://img.shields.io/badge/Founded%20by-Sanjay%20Kushwaha-3D3D3D?style=for-the-badge" alt="Founded by Sanjay Kushwaha" />
 </a>
