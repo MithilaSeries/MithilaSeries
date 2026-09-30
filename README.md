@@ -25,8 +25,11 @@ md = r'''<div align="center">
 <a href="https://www.instagram.com/mithilaseries">
   <img src="https://img.shields.io/badge/Instagram-@mithilaseries-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://github.com/mithilaseries">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile placeholder" />
+<a href="https://www.facebook.com/MithilaSeries">
+  <img src="https://img.shields.io/badge/Facebook-Mithila%20Series-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Mithila Series Facebook" />
+</a>
+<a href="https://www.tiktok.com/@mithilaseries">
+  <img src="https://img.shields.io/badge/TikTok-@mithilaseries-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Mithila Series TikTok" />
 </a>
 <a href="https://www.linkedin.com/in/mithilaseries">
   <img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_URL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
