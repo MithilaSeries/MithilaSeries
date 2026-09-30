@@ -211,9 +211,44 @@ The long-term vision is to connect **Mithila's artists, creators, traditions, st
 </div>
 
 ---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with **creators, developers, organizations, and teams** working across creative media and technology.
+
+<div align="center">
+
+<a href="mailto:mithilaseries@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email-mithilaseries@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" />
+</a>
+<a href="https://www.linkedin.com/in/mithilaseries">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Mithila Series-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
+</a>
+<a href="https://mithilaseries.com.np">
+  <img src="https://img.shields.io/badge/🎬%20Portfolio-MithilaSeries.com.np-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio placeholder" />
+</a>
+<a href="https://github.com/mithilaseries">
+  <img src="https://img.shields.io/badge/🐙%20GitHub-Mithila Series-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile placeholder" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+<img
+  src="https://komarev.com/ghpvc/?username=mithilaseries&style=flat-square&label=Profile%20Views"
+  alt="GitHub profile views for Mithila Series"
+/>
+
+</div>
+
 ## 🧩 Our Creative Departments
 
-`text
+```text
 MITHILA SERIES
 │
 ├── 🎵 Music Production
@@ -251,38 +286,6 @@ MITHILA SERIES
     ├── Music
     ├── Vocal
     ├── Instruments
-    └── Audio / Video`
+    └── Audio / Video
 
-## 🤝 Let's Connect
 
-I'm interested in connecting with **creators, developers, organizations, and teams** working across creative media and technology.
-
-<div align="center">
-
-<a href="mailto:mithilaseries@gmail.com">
-  <img src="https://img.shields.io/badge/📧%20Email-mithilaseries@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" />
-</a>
-<a href="https://www.linkedin.com/in/mithilaseries">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Mithila Series-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
-</a>
-<a href="https://mithilaseries.com.np">
-  <img src="https://img.shields.io/badge/🎬%20Portfolio-MithilaSeries.com.np-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio placeholder" />
-</a>
-<a href="https://github.com/mithilaseries">
-  <img src="https://img.shields.io/badge/🐙%20GitHub-Mithila Series-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile placeholder" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! 👋
-
-<img
-  src="https://komarev.com/ghpvc/?username=mithilaseries&style=flat-square&label=Profile%20Views"
-  alt="GitHub profile views for Mithila Series"
-/>
-
-</div>
