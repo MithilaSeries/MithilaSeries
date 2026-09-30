@@ -12,7 +12,9 @@ md = r'''<div align="center">
 <a href="https://www.instagram.com/sanjaykushwahamusic">
   <img src="https://img.shields.io/badge/Founded%20by-Sanjay%20Kushwaha-3D3D3D?style=for-the-badge" alt="Founded by Sanjay Kushwaha" />
 </a>
-<img src="https://img.shields.io/badge/Location-Janakpurdham%2C%20Nepal-3D3D3D?style=for-the-badge" alt="Janakpurdham Nepal" />
+<a href="https://www.google.com/maps/search/?api=1&query=Janakpurdham%2C+Nepal">
+  <img src="https://img.shields.io/badge/Location-Janakpurdham%2C%20Nepal-3D3D3D?style=for-the-badge" alt="Janakpurdham Nepal" />
+</a>
 
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=ff6600&center=true&vCenter=true&width=850&lines=Mithila+Series;Music+%26+Media+Company;Film+%26+Video+Production;Photography+%26+Cinematography;Creative+Media+%26+Mithila+Culture;Connecting+Generations%2C+Bringing+Mithila+to+the+World." alt="Animated introduction for Mithila Series" />
