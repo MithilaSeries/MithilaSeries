@@ -1,6 +1,4 @@
-from pathlib import Path
-
-md = r'''<div align="center">
+<div align="center">
 
 # 🎬 Mithila Series
 
