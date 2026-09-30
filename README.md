@@ -20,9 +20,6 @@ md = r'''<div align="center">
 <a href="https://www.instagram.com/mithilaseries">
   <img src="https://img.shields.io/badge/Instagram-@mithilaseries-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="https://www.instagram.com/MithilaSeriesStudio">
-  <img src="https://img.shields.io/badge/Studio%20Instagram-@MithilaSeriesStudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Studio Instagram" />
-</a>
 
 </div>
 
