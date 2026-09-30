@@ -13,7 +13,15 @@ md = r'''<div align="center">
 <img src="https://img.shields.io/badge/Location-Janakpurdham%2C%20Nepal-3D3D3D?style=for-the-badge" alt="Janakpurdham Nepal" />
 
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=ff6600&center=true&vCenter=true&width=850&lines=Mithila+Series;Music+%26+Media+Company;Film+%26+Video+Production;Photography+%26+Cinematography;Creative+Media+%26+Mithila+Culture;Preserving+Culture%2C+Creating+Stories%2C+Inspiring+Generations." alt="Animated introduction for Mithila Series" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=ff6600&center=true&vCenter=true&width=850&lines=Mithila+Series;Music+%26+Media+Company;Film+%26+Video+Production;Photography+%26+Cinematography;Creative+Media+%26+Mithila+Culture;Preserving+Culture%2C+Creating+Stories%2C+Inspiring+Generations." alt="Animated introduction for Mithila Series" /><div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=ff6600&center=true&vCenter=true&width=850&lines=Mithila+Series" alt="Mithila Series" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Music+%26+Media+Company" alt="Music and Media Company" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=900&color=9B59B6&center=true&vCenter=true&width=850&lines=Film+%26+Video+Production" alt="Film and Video Production" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=900&color=2ECC71&center=true&vCenter=true&width=850&lines=Photography+%26+Cinematography" alt="Photography and Cinematography" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=900&color=F39C12&center=true&vCenter=true&width=850&lines=Creative+Media+%26+Mithila+Culture" alt="Creative Media and Mithila Culture" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=900&color=AAAAAA&center=true&vCenter=true&width=850&lines=Connecting+Generations%2C+Bringing+Mithila+to+the+World." alt="Connecting Generations, Bringing Mithila to the World" />
+
+</div>
 
 <a href="https://mithilaseries.com">
   <img src="https://img.shields.io/badge/🌐%20Website-mithilaseries.com-ff6600?style=for-the-badge" alt="Website" />
