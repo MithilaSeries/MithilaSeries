@@ -9,7 +9,9 @@ md = r'''<div align="center">
 **Connecting generations, bringing Mithila to the world.**
 
 <img src="https://img.shields.io/badge/Mithila%20Series-Music%20%26%20Media-ff6600?style=for-the-badge" alt="Mithila Series" />
-<img src="https://img.shields.io/badge/Founded%20by-Sanjay%20Kushwaha-3D3D3D?style=for-the-badge" alt="Founded by Sanjay Kushwaha" />
+<a href="https://www.instagram.com/sanjaykushwahamusic">
+  <img src="https://img.shields.io/badge/Founded%20by-Sanjay%20Kushwaha-3D3D3D?style=for-the-badge" alt="Founded by Sanjay Kushwaha" />
+</a>
 <img src="https://img.shields.io/badge/Location-Janakpurdham%2C%20Nepal-3D3D3D?style=for-the-badge" alt="Janakpurdham Nepal" />
 
 <br><br>
