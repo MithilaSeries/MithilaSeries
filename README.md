@@ -8,7 +8,7 @@ md = r'''<div align="center">
 
 **Connecting generations, bringing Mithila to the world.**
 
-<span style="background:#FF6600; color:#FFFFFF; padding:8px 16px; border-radius:6px; font-weight:600;">
+<span style="background:#F57C00; color:#FFFFFF; padding:8px 16px; border-radius:6px; font-weight:600;">
   Mithila Series — Music &amp; Media
 </span>
 <a href="https://www.instagram.com/sanjaykushwahamusic">
