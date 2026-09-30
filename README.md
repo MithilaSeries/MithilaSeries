@@ -61,7 +61,7 @@ Mithila Series aims to combine the cultural identity of Mithila with modern crea
 | 📧 **Email** | mithilaseries@gmail.com |
 | 🎨 **Brand Colors** | Orange `#ff6600` & Dark Gray `#3D3D3D` |
 | 🌺 **Core Identity** | Mithila / Maithili Culture & Creative Media |
-| 🤝 **Focus** | Music • Film • Wedding • Events • Culture • Digital Media |
+| 🤝 **Focus** | Music • Film • Culture • Wedding • Events • Digital Media |
 
 ---
 
