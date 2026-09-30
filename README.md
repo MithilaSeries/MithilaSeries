@@ -12,8 +12,8 @@ md = r'''<div align="center">
 <a href="https://www.instagram.com/sanjaykushwahamusic">
   <img src="https://img.shields.io/badge/Founded%20by-Sanjay%20Kushwaha-3D3D3D?style=for-the-badge" alt="Founded by Sanjay Kushwaha" />
 </a>
-<a href="https://www.google.com/maps/search/?api=1&query=Janakpurdham%2C+Nepal">
-  <img src="https://img.shields.io/badge/Location-Janakpurdham%2C%20Nepal-3D3D3D?style=for-the-badge" alt="Janakpurdham Nepal" />
+<a href="https://www.google.com/maps/search/?api=1&query=Mithila+Series+Music+%26+Media+Company%2C+Ramanand+Chowk%2C+Janakpur%2C+Nepal">
+  <img src="https://img.shields.io/badge/Location-Janakpurdham%2C%20Nepal-3D3D3D?style=for-the-badge" alt="Mithila Series - Janakpurdham, Nepal" />
 </a>
 
 <br><br>
