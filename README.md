@@ -237,7 +237,7 @@ I'm interested in connecting with **creators, developers, organizations, and tea
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### Thanks for visiting our profile! 👋
 
 <img
   src="https://komarev.com/ghpvc/?username=mithilaseries&style=flat-square&label=Profile%20Views"
