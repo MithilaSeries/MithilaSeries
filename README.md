@@ -21,13 +21,13 @@
   <img src="https://img.shields.io/badge/🌐%20Website-mithilaseries.com-ff6600?style=for-the-badge" alt="Website" />
 </a>
 <a href="https://www.instagram.com/mithilaseries">
-  <img src="https://img.shields.io/badge/Instagram-@mithilaseries-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-Mithila Series-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://www.facebook.com/MithilaSeries">
   <img src="https://img.shields.io/badge/Facebook-Mithila%20Series-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Mithila Series" />
 </a>
 <a href="https://www.tiktok.com/@mithilaseries">
-  <img src="https://img.shields.io/badge/TikTok-@mithilaseries-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Mithila Series " />
+  <img src="https://img.shields.io/badge/TikTok-Mithila Series-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Mithila Series " />
 </a>
 <a href="https://www.linkedin.com/in/mithilaseries">
   <img src="https://img.shields.io/badge/LinkedIn-Mithila series-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mithila Series" />
