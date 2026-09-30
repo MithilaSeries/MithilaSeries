@@ -13,6 +13,8 @@ md = r'''<div align="center">
 <img src="https://img.shields.io/badge/Location-Janakpurdham%2C%20Nepal-3D3D3D?style=for-the-badge" alt="Janakpurdham Nepal" />
 
 <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Anil+Mahato;Video+Editor+%26+Graphic+Designer;B.Sc.+CSIT+Student;Creative+Media+%2B+Technology;Learning.+Creating.+Building." alt="Animated introduction showing Anil Mahato's roles and interests" />
+
 
 <a href="https://mithilaseries.com">
   <img src="https://img.shields.io/badge/🌐%20Website-mithilaseries.com-ff6600?style=for-the-badge" alt="Website" />
