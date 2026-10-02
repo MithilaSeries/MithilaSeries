@@ -439,7 +439,6 @@ From recording and cinematography to editing, color, sound, and distribution, th
 
 ### Official Mithila Series
 
-- 🌐 Website — **https://mithilaseries.com**
 - 📸 Instagram — **@mithilaseries**
 - ▶️ YouTube — **Mithila Series**
 - 📘 Facebook — **Mithila Series**
@@ -538,8 +537,6 @@ Mithila and Maithili culture are central to the company's identity, while its pr
 📍 Ramanand Chowk, Janakpurdham, Nepal
 
 📧 **mithilaseries@gmail.com**
-
-🌐 **https://mithilaseries.com**
 
 📞 **+977-9807877573**
 
