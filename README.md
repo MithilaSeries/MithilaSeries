@@ -55,7 +55,6 @@ Mithila Series aims to combine the cultural identity of Mithila with modern crea
 | 👑 **Founder** | Sanjay Kushwaha |
 | 🎬 **Industry** | Music, Media & Creative Production |
 | 📍 **Based in** | Ramanand Chowk, Janakpurdham, Nepal |
-| 🌐 **Website** | https://mithilaseries.com |
 | 📧 **Email** | mithilaseries@gmail.com |
 | 🎨 **Brand Colors** | Orange `#ff6600` & Dark Gray `#3D3D3D` |
 | 🌺 **Core Identity** | Mithila / Maithili Culture & Creative Media |
