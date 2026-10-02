@@ -17,8 +17,8 @@
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=ff6600&center=true&vCenter=true&width=850&lines=Mithila+Series;Music+%26+Media+Company;Film+%26+Video+Production;Photography+%26+Cinematography;Creative+Media+%26+Mithila+Culture;Connecting+Generations%2C+Bringing+Mithila+to+the+World." alt="Animated introduction for Mithila Series" />
 
-<a href="https://mithilaseries.com">
-  <img src="https://img.shields.io/badge/🌐%20Website-mithilaseries.com-ff6600?style=for-the-badge" alt="Website" />
+<a href="https://MithilaSeries">
+  <img src="https://img.shields.io/badge/🌐%20Website-MithilaSeries-ff6600?style=for-the-badge" alt="Website" />
 </a>
 <a href="https://www.instagram.com/mithilaseries">
   <img src="https://img.shields.io/badge/Instagram-Mithila Series-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -223,9 +223,6 @@ I'm interested in connecting with **creators, developers, organizations, and tea
 </a>
 <a href="https://www.linkedin.com/in/mithilaseries">
   <img src="https://img.shields.io/badge/💼%20LinkedIn-Mithila Series-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
-</a>
-<a href="https://mithilaseries.com.np">
-  <img src="https://img.shields.io/badge/🎬%20Portfolio-MithilaSeries.com.np-6E56CF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio placeholder" />
 </a>
 <a href="https://github.com/mithilaseries">
   <img src="https://img.shields.io/badge/🐙%20GitHub-Mithila Series-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile placeholder" />
